@@ -1,16 +1,24 @@
 # Seasonality-Sales-Analysis-And-Forecast-For-An-Online-Sythethic-Retail-Shop-
 
 Project Title
+
+
 ​Seasonality Sales Analysis and Forecast for an Online Synthetic Retail Shop
+
 ​Executive Summary
+
 ​A comprehensive Business Intelligence (BI) project analyzing a synthetic online retail store's sales performance, seasonality, product ranking, and customer demographics. The goal was to transform raw transactional data into actionable insights using Power BI, providing the business with a clear understanding of its sales drivers and a basic forecast for future planning.
+
 ​Key Features & Insights
+
 ​Based on the dashboard screenshots, highlight the most significant findings:
 ​Total Sales & Performance: Total sales of $737.33K were analyzed over the period.
 ​Customer Satisfaction: The average customer review score is 3.99. The most significant volume of orders is associated with a review score of 5, indicating a high correlation between customer satisfaction and order size/frequency.
 ​Geographic Sales: A world map visualization highlights sales distribution, pinpointing key global markets (North America, Europe, Australia, etc.) and allowing for regional sales comparison.
 ​Product Performance: A detailed product table shows the top-selling items by quantity and expenditure, with Yoga Mat, Notebook, and Soccer Ball as high-ranking products.
+
 ​Seasonality & Trends:
+
 ​Sales show significant daily and monthly fluctuations, with a clear visual representation of sales volume by Day of the Week and Month Name.
 ​The "Count of category_name by Day" chart suggests a highly fluctuating, potentially spiky sales pattern.
 ​Sales Ranking by Category: Sports & Outdoors and Electronics are the highest-performing product categories.
